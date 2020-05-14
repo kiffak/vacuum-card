@@ -157,6 +157,7 @@ If this card works with your vacuum cleaner, please open a PR and your model to 
 - Xiaomi Mi Robot 1S
 - Roomba 675
 - Roomba 960
+- Roomba 981
 - Dyson 360 Eye
 - Neato D7
 - [_Your vacuum?_][edit-readme]
